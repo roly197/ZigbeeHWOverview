@@ -14,5 +14,5 @@ Overview of technologies used by the big vendors of Zigbee lighting products
 Overview of other Zigbee optimized MCUs: 
 |Vendor   |  Product type | MCU   | Link  |   |
 |---|---|---|---|---|
-|STM   |   | STM32WB55x   | [link] (https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-wireless-mcus/stm32wb-series.html)  |  |
+|STM   |   | STM32WB55x   | https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-wireless-mcus/stm32wb-series.html  |  |
 |STM   |   | STM32WB50   |   |  |
